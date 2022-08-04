@@ -1,6 +1,6 @@
 ## Introduction
 
-This sample allows you to deploy a serverless website for hosting multiple meetings. You can sign up and create users with admin or attendee level privileges. Admins can schedule new meetings, while attendees can only join. Meetings are presented on a home page during their scheduled time. 
+This sample allows you to deploy a serverless website for hosting multiple meetings and creating breakout rooms in meeting. You can sign up and create users with admin or attendee level privileges. Admins can schedule new meetings, while attendees can only join. Meetings are presented on a home page during their scheduled time. A host can create breakout rooms during meeting.
 
 The demo takes approximately 20 minutes to deploy in your AWS account. Follow the cleanup procedure to avoid any unwanted costs. 
 
